@@ -109,7 +109,7 @@ body{
 
 .quiz_box{
     width: 350px;
-    height: 350px;
+    height: fit-content;
     background: #fff;
     border-radius: 2px;
     transform: translate(-50%, -50%) scale();
