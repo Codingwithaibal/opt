@@ -17,7 +17,7 @@ start_btn.onclick = ()=>{
 
 // if exitQuiz button clicked
 exit_btn.onclick = ()=>{
-    info_box.classList.remove("activeInfo"); //hide info box
+    window.location = "https://codingwithaibal.github.io/daily/"; //load the url
 }
 
 // if continueQuiz button clicked
